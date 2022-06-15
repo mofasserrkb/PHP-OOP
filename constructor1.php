@@ -1,6 +1,6 @@
 <?php
 /* How to access private property with public method And
- property initialized with  constructor */
+ property initialized with  constructor in php */
 
 class customer {
 
