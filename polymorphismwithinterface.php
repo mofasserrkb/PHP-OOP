@@ -39,7 +39,16 @@ function greeting ($greeters)
 }
 greeting($greeters);
 
+/*
+output
+------------------
+Hello
+Hi
+Hallo
+Ki re bhai
 
+
+*/
 
 
 
