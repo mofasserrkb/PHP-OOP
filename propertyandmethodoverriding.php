@@ -1,8 +1,7 @@
 <?php
 /*   Property overriding and Method overriding */
 
-use customer as GlobalCustomer;
-use subscriber as GlobalSubscriber;
+
 
 class customer {
     public $name="Hasib from customer section";
